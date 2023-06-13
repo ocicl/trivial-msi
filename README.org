@@ -1,0 +1,10 @@
+* trivial-msi
+
+Tools for working with Windows Installer files
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/roswell/trivial-msi.git   |
+| commit  | 9227c39  |
+| systems | trivial-msi |
+|---------+-------------------------------------------|
+
